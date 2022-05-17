@@ -10,7 +10,7 @@ function writePassword() {
   passwordText.value = password;
 }
 
-// generate password, which links variable password to passwordText.value
+// prompts for password 
 function generatePassword() {
   var length = prompt("Choose from 8 to 128 characters you want your password to contain");
 
@@ -56,7 +56,7 @@ function generatePassword() {
     return array;
   }
  
-  // Pulls from character codes depending on characters selected from questions
+  // Pulls from character codes depending on selection from function generatePassword
   var characters = [];
   if (confirmLower) {
     characters = characters.concat(lower);
