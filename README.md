@@ -9,5 +9,5 @@
  URL: https://jsouth75.github.io/javascript-password/
  GitHub Link: https://github.com/jsouth75/javascript-password
 
- ![screenshot of password](./Assets/images/Screen-shot.png)
+ ![screenshot of password](./Develop/Assets/images/Screen%20Shot%202022-05-16%20at%208.03.49%20PM%20(2).png)
  
